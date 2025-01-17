@@ -55,4 +55,3 @@ The dataset contains detailed Salesforce data, including:
 - Incorporate customer segmentation for targeted analysis.
 - Include seasonality analysis to identify peak sales periods.
 - Enable drill-down filters for deeper exploration of individual regions, categories, or products.
-- 
