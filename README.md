@@ -1,15 +1,3 @@
-# Salesforce-Data-Analysis-and-Visualization---Tableau-Dashboard
-
-### Name:
-**Salesforce Data Analysis and Visualization - Tableau Dashboard**
-
-### Small Description:
-This Tableau project analyzes Salesforce data to provide key insights into sales performance, profit margins, top products, and regional trends. It includes interactive visualizations to enable better decision-making for sales strategies and business optimization.
-
----
-
-### Full README File Content:
-
 # Salesforce Data Analysis - Tableau Dashboard
 
 ## Overview
@@ -59,7 +47,7 @@ The dataset contains detailed Salesforce data, including:
 
 ## Screenshot of the Dashboard
 
-
+![image](https://github.com/user-attachments/assets/265d07ae-3b29-44f1-a94e-47a70d111d86)
 
 ## Future Enhancements
 
@@ -67,7 +55,4 @@ The dataset contains detailed Salesforce data, including:
 - Incorporate customer segmentation for targeted analysis.
 - Include seasonality analysis to identify peak sales periods.
 - Enable drill-down filters for deeper exploration of individual regions, categories, or products.
-
----
-
-This project showcases the ability to analyze Salesforce data using Tableau, providing actionable insights through interactive and visually appealing dashboards.
+- 
